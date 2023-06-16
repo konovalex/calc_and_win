@@ -23,6 +23,9 @@ def main():
     while replay:
         replay = run_game()
 
+    yes = 'Yes'
+    print(yes)
+
 
 if __name__ == '__main__':
     main()
